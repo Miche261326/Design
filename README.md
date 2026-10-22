@@ -49,14 +49,13 @@
 
 <body>
   <header>
-    <h1>¡Bienvenido a mi página!</h1>
-    <p>Mi primer proyecto creado con programación</p>
+    <h1>¡Bienvenido a esta página!</h1>
+    <p>Realiza trabajos para todo tipo de actividades</p>
   </header>
 
   <main>
     <h2>Sobre nosotros</h2>
-    <p>Esta es mi primera página web.
-       Aquí puedo mostrar mis ideas, servicios o productos.</p>
+    <p>En esta página encontrarás diseños único para crear tareas de forma fácil y rápida.</p>
 
     <button onclick="saludar()">
       Haz clic aquí
